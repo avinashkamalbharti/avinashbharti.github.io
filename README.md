@@ -1,2 +1,1 @@
-# avinashbharti.github.io
-Academic website 
+Avinash Bharti 
